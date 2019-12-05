@@ -1,0 +1,6 @@
+name: cf
+mode: html
+files:
+  - name: cf.dart
+  - name: index.html
+  - name: style.css
