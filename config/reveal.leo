@@ -78,8 +78,7 @@ Created by [張哲瑀](http://lab.kmol.info/)
 * 重量轉換
 * 亂數分組
 * 各國國旗
-* 
-* 
+
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
